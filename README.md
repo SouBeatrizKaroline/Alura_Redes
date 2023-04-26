@@ -6,6 +6,8 @@
 
 - [🔗 Baixar Cisco Packet Tracer](https://www.packettracernetwork.com/download/download-packet-tracer.html)
 
+- [🔗 Baixar Wireshark](https://www.wireshark.org/)
+
 ## 🛠 Cursos
 
 - Redes parte 1: conceitos e prática
