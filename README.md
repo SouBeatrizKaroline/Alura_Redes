@@ -2,7 +2,9 @@
 
 > Redes
 
-- [🔗 Baixar Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)
+- [🔗 Site Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)
+
+- [🔗 Baixar Cisco Packet Tracer](https://www.packettracernetwork.com/download/download-packet-tracer.html)
 
 ## 🛠 Cursos
 
