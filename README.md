@@ -8,6 +8,9 @@
 
 - [🔗 Baixar Wireshark](https://www.wireshark.org/)
 
+- [🔗 IP Subnet Calculator](https://wintelguy.com/subnetcalc.pl)
+
+
 ## 🛠 Cursos
 
 - Redes parte 1: conceitos e prática
