@@ -10,6 +10,9 @@
 
 - [🔗 IP Subnet Calculator](https://wintelguy.com/subnetcalc.pl)
 
+- [🔗 WiFi Analyzer](https://apps.microsoft.com/store/detail/wifi-analyzer/9NBLGGH33N0N?hl=pt-br&gl=br)
+
+- [🔗 WiFi Overview 360 Pro](https://play.google.com/store/apps/details?id=de.android.wifioverviewpro&hl=pt_BR&gl=US)
 
 ## 🛠 Cursos
 
