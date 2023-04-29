@@ -14,6 +14,8 @@
 
 - [🔗 WiFi Overview 360 Pro](https://play.google.com/store/apps/details?id=de.android.wifioverviewpro&hl=pt_BR&gl=US)
 
+- [🔗 Site Kali Linux](https://www.kali.org/)
+
 ## 🛠 Cursos
 
 - Redes parte 1: conceitos e prática
