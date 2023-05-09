@@ -6,7 +6,7 @@
 
 - [🔗 Baixar Cisco Packet Tracer](https://www.packettracernetwork.com/download/download-packet-tracer.html)
 
-- [🔗 Baixar Wireshark](https://www.wireshark.org/)
+- [🔗 Baixar WireShark](https://www.wireshark.org/#download)
 
 - [🔗 IP Subnet Calculator](https://wintelguy.com/subnetcalc.pl)
 
@@ -19,6 +19,14 @@
 - [🔗 Documentação Regex](http://turing.com.br/material/regex/index.html)
 
 - [🔗 Documentação Netgate](https://docs.netgate.com/)
+
+- [🔗 Site WireShark](https://www.wireshark.org/)
+
+- [🔗 Baixar Virtual Box](https://www.virtualbox.org/wiki/Downloads)
+
+- [🔗 Repositorio DDoS Packet Capture Collection](https://github.com/StopDDoS/packet-captures)
+
+- [🔗 Site Knoldus](https://blog.knoldus.com/)
 
 ## 🛠 Cursos
 
