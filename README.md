@@ -24,6 +24,8 @@
 
 - [🔗 Baixar Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 
+- [🔗 Baixar Linux](https://www.virtualbox.org/wiki/Linux_Downloads)
+
 - [🔗 Repositorio DDoS Packet Capture Collection](https://github.com/StopDDoS/packet-captures)
 
 - [🔗 Site Knoldus](https://blog.knoldus.com/)
