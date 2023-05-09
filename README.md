@@ -16,6 +16,10 @@
 
 - [🔗 Site Kali Linux](https://www.kali.org/)
 
+- [🔗 Documentação Regex](http://turing.com.br/material/regex/index.html)
+
+- [🔗 Documentação Netgate](https://docs.netgate.com/)
+
 ## 🛠 Cursos
 
 - Redes parte 1: conceitos e prática
